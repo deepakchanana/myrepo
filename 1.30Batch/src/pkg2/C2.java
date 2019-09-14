@@ -24,5 +24,7 @@ public class C2
 	  w.until(ExpectedConditions.elementToBeClickable(button));
 	  w.until(ExpectedConditions.textToBePresentInElement("button","Deepak"));
 	  
+	  System.out.println("changed");
+	  
   }
 }

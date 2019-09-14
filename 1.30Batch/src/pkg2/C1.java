@@ -24,8 +24,11 @@ System.setProperty("webdriver.chrome.driver","C:\\Users\\Dell\\Desktop\\chromedr
  WebElement password=driver.findElement(By.name("pass"));
  password.sendKeys("password1");
  
+ System.out.println("changes done");
 
+ System.out.println("changes doneee");
  
+  
  
  
    }

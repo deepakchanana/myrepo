@@ -25,7 +25,10 @@ public class C3 {
 		ob[2][0]="user3";
 		ob[2][1]="password3";
 		return ob;
+	 System.out.println("Deeeoajfgre");
+	 
 	}
+	
 
 	
 	@DataProvider
