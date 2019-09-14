@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="440" started-at="2019-09-08T20:03:31Z" finished-at="2019-09-08T20:03:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="440" started-at="2019-09-08T20:03:31Z" finished-at="2019-09-08T20:03:31Z">
+      <class name="pkg2.C3">
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String)[pri:0, instance:pkg2.C3@4883b407]" name="testcase" duration-ms="34" started-at="2019-09-08T13:03:31Z" data-provider="dp2" finished-at="2019-09-08T13:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String)[pri:0, instance:pkg2.C3@4883b407]" name="testcase" duration-ms="4" started-at="2019-09-08T13:03:31Z" data-provider="dp2" finished-at="2019-09-08T13:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String)[pri:0, instance:pkg2.C3@4883b407]" name="testcase" duration-ms="4" started-at="2019-09-08T13:03:31Z" data-provider="dp2" finished-at="2019-09-08T13:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String)[pri:0, instance:pkg2.C3@4883b407]" name="testcase" duration-ms="5" started-at="2019-09-08T13:03:31Z" data-provider="dp2" finished-at="2019-09-08T13:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String)[pri:0, instance:pkg2.C3@4883b407]" name="testcase" duration-ms="3" started-at="2019-09-08T13:03:31Z" data-provider="dp2" finished-at="2019-09-08T13:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String)[pri:0, instance:pkg2.C3@4883b407]" name="testcase" duration-ms="20" started-at="2019-09-08T13:03:31Z" data-provider="dp2" finished-at="2019-09-08T13:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String)[pri:0, instance:pkg2.C3@4883b407]" name="testcase" duration-ms="6" started-at="2019-09-08T13:03:31Z" data-provider="dp2" finished-at="2019-09-08T13:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="testcase(java.lang.String, java.lang.String)[pri:0, instance:pkg2.C3@4883b407]" name="testcase" duration-ms="8" started-at="2019-09-08T13:03:31Z" data-provider="dp2" finished-at="2019-09-08T13:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- pkg2.C3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
